@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/_site"
+baseurl: ""
 url: "https://xssChauhan.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
