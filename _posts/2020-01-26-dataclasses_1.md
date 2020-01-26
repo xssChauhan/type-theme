@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding Python Dataclasses - Part 2
+title: Understanding Python Dataclasses - Part 1
 ---
 
 This post goes through python dataclasses: their working, intuitions, and use-cases.
